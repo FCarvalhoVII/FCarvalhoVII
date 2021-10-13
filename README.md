@@ -3,6 +3,8 @@
 
 <br>
 
+<p>I am a Fullstack Developer passionate about technology, I am currently focusing on the Backend and here I keep my studies and personal projects.</p>
+
 <p align="center">
   Main technologies: 🔥
 </p>
