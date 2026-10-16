@@ -95,23 +95,6 @@ Some problems I've worked on include:
 
 ---
 
-## 🎮 Side Project
-
-Outside of my professional work, I'm developing a **medieval fantasy RPG using C# and MonoGame**.
-
-The project has been a great environment for experimenting with:
-
-- Entity Component System (ECS)
-- Event-driven architecture
-- Combat systems
-- Inventory and economy systems
-- Crafting and alchemy
-- Farming and mining mechanics
-- Data-driven game design
-- Game architecture and tooling
-
----
-
 ## 📚 Currently Improving
 
 I'm currently deepening my knowledge in:
