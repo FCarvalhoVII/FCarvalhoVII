@@ -105,8 +105,6 @@ I'm currently deepening my knowledge in:
 - Data Structures & Algorithms
 - Performance & Scalability
 - Cloud Architecture
-- Technical Leadership
-- Professional English
 
 ---
 
